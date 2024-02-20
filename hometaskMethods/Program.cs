@@ -39,6 +39,7 @@ internal class Program
         Console.WriteLine($"{n} ve {m} ededleri araligindaki tek ededlerin sayi: " + numOfOdds(n, m));
 
         #endregion
+
         #region Task4
 
 
@@ -48,6 +49,7 @@ internal class Program
         Console.WriteLine($"{a} ededi " + numType(a));
 
         #endregion
+
         #region Task5
 
 
